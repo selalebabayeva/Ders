@@ -170,19 +170,19 @@
 # # a5 = list(range(10, 4, -1))
 # # print(a5)
 
-# # a = input("ad daxil edin:")
+# a = input("ad daxil edin:")
 
-# # if a =="Aslan":
-# #     print("Aslan emi ogludur")
+# if a =="Aslan":
+#     print("Aslan emi ogludur")
 
-# # elif a == "Fuad":
-# #     print("Fuad dayi ogludur")
+# elif a == "Fuad":
+#     print("Fuad dayi ogludur")
 
 
-# # elif a =="Afaq":
-# #     print("Afaq bibi qizidir")
-# # elif a == "Nuray":
-# #  print("Nuray xala qizidir")
+# elif a =="Afaq":
+#     print("Afaq bibi qizidir")
+# elif a == "Nuray":
+#  print("Nuray xala qizidir")
 
 # # #  bosluq buraxmaq
 # if a == ' ':

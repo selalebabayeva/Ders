@@ -1,14 +1,24 @@
-# a =('Fuad')
-# print('Salam {}'.format(a))
+
+
+
+# print(a.lower()) 
+# print(a.replace("t,w"))
+# print(a.capitalize())
+# print(a.find('t'))
+# print(a.count('t',2))
+# print(a.strip())
+# print(max (a,b,c))
+
+
+
 # a = 'Fuad'
 # print('Salam {}'.format(a))
 
 # a = ('Baki')
 # print(a[1:3])
-# a = ('Python')
+
 # a = ("Python")
-# print(a.replace('t,w')) or print(a.replace('Python','Java'))
-# print(a.replace('t,w') ) or print(a.replace('Python','Java'))
+# print(a.replace("t,w")) or print(a.replace('Python','Java'))
 
 
 # herfleri kiciltmek
@@ -94,7 +104,7 @@
 
 
  
-    # login = input("login daxil edin:")
+# login = input("login daxil edin:")
 # parol = int(input("eded daxil edin:"))
 
 # if login != "nesib" and parol != "1,2,3,4":
